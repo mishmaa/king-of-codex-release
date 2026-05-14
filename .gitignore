@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+dist/
+build/
+*.spec
+king_of_codex_save.json
+king_of_codex_settings.json
+king_of_codex_achievements.json
+replays/*.kcr
+*.log
